@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Łukasz Libera</h1>
-<h3 align="center">Passionate entry-level IT professional with a strong foundation in computer science and a desire to learn and grow in the field."</h3>
+<h3 align="center">Passionate entry-level IT professional with a strong foundation in computer science and a desire to learn and grow in the field.</h3>
 
 - 🔭 I’m currently working on **CMA - Car Marketplace Agregator**
 
