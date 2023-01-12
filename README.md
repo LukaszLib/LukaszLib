@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **CMA - Car Marketplace Agregator**
 
-- 👯 And also on **a script that atuomates deleting background and vectorizing a picture**
-
-- 🌱 I’m currently learning **Ubuntu Linux that I hosted usign Oracle VM.**
+- 🌱 I’m currently learning **Selenium, as well as Ubuntu Linux that I hosted using Oracle VM.**
 
 - 📫 How to reach me **lukaszliberatd@gmail.com**
 
